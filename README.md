@@ -81,56 +81,6 @@ user-focused applications and continuously improving my problem-solving skills.
 
 ---
 
-<!-- ======================= PROJECTS ======================= -->
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-### 🔥 Project 01
-
-**YOUR PROJECT NAME**
-
-> A practical full-stack application designed to solve a real-world problem.
-
-**Tech:** `Java` `SQL` `HTML` `CSS` `JavaScript`
-
-<a href="YOUR_PROJECT_REPO">
-<img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
----
-
-### ⚡ Project 02
-
-**YOUR PROJECT NAME**
-
-> A modern web application focused on usability, functionality and clean design.
-
-**Tech:** `Java` `JavaScript` `SQL`
-
-<a href="YOUR_PROJECT_REPO">
-<img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
----
-
-### 💡 Project 03
-
-**YOUR PROJECT NAME**
-
-> A project built to strengthen full-stack development and problem-solving skills.
-
-**Tech:** `HTML` `CSS` `JavaScript` `SQL`
-
-<a href="YOUR_PROJECT_REPO">
-<img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
----
-
 <!-- ======================= CURRENTLY LEARNING ======================= -->
 
 ## 🌱 Currently Learning

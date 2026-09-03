@@ -58,7 +58,7 @@ user-focused applications and continuously improving my problem-solving skills.
 ### 🎨 Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react" />
+<img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
 ### ⚙️ Backend
@@ -76,7 +76,7 @@ user-focused applications and continuously improving my problem-solving skills.
 ### 🔧 Tools & Platforms
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,cursor,eclipse" />
 </p>
 
 ---
@@ -112,71 +112,6 @@ user-focused applications and continuously improving my problem-solving skills.
 </table>
 
 ---
-
-<!-- ======================= GITHUB STATS ======================= -->
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent&hide_border=true" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=transparent&hide_border=true" />
-
-</div>
-
----
-
-<!-- ======================= CONTRIBUTIONS ======================= -->
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-compact&hide_border=true&area=true" />
-
-</div>
-
----
-
-<!-- ======================= TOOLS ======================= -->
-
-## 🧰 Development Tools
-
-| Category | Tools |
-|----------|-------|
-| **IDE** | IntelliJ IDEA • VS Code |
-| **Version Control** | Git • GitHub |
-| **Database** | MySQL |
-| **API Testing** | Postman |
-| **Frontend** | HTML • CSS • JavaScript |
-| **Backend** | Java • Spring Boot |
-
----
-
-<!-- ======================= GOALS ======================= -->
-
-## 🎯 2026 Goals
-
-- 🚀 Build production-ready full-stack applications
-- ☕ Strengthen Java & backend development
-- 🗄️ Master SQL and database concepts
-- 🧠 Improve DSA & problem-solving skills
-- 🌐 Build and deploy real-world projects
-- 🤝 Contribute to meaningful development projects
-
----
-
 <!-- ======================= CONNECT ======================= -->
 
 ## 🤝 Let's Connect
